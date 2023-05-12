@@ -1,0 +1,6 @@
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/libmavros_extras.so
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/pkgconfig/mavros_extras.pc
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/mavros_extras/servo_state_publisher
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/mavros_extras/visualization

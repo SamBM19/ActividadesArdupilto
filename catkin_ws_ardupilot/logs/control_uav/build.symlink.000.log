@@ -1,0 +1,3 @@
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/control_uav/cmake/control_uavConfig-version.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/control_uav/cmake/control_uavConfig.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/pkgconfig/control_uav.pc

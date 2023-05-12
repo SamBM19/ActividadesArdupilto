@@ -1,0 +1,5 @@
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/libmavconn.so
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/pkgconfig/libmavconn.pc

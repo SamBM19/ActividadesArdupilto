@@ -1,0 +1,1 @@
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake

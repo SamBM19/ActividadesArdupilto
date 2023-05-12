@@ -1,0 +1,5 @@
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/test_mavros/cmake/test_mavrosConfig-version.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/share/test_mavros/cmake/test_mavrosConfig.cmake
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/libmavros_sitl_test.so
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/test_mavros/sitl_test_node
+Symlinking /home/samantha/catkin_ws_ardupilot/devel/lib/pkgconfig/test_mavros.pc

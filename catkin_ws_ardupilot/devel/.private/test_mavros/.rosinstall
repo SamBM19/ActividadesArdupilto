@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/samantha/catkin_ws_ardupilot/devel/.private/test_mavros/setup.sh

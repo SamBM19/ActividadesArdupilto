@@ -1,0 +1,1 @@
+/home/samantha/catkin_ws_ardupilot/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake

@@ -1,0 +1,1 @@
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_msgs/share/roseus/ros/mavros_msgs/srv/WaypointPush.l

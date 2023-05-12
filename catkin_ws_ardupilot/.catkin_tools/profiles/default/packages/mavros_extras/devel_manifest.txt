@@ -1,0 +1,8 @@
+mavros/mavros_extras
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/cmake.lock /home/samantha/catkin_ws_ardupilot/devel/./cmake.lock
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig.cmake /home/samantha/catkin_ws_ardupilot/devel/share/mavros_extras/cmake/mavros_extrasConfig.cmake
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake /home/samantha/catkin_ws_ardupilot/devel/share/mavros_extras/cmake/mavros_extrasConfig-version.cmake
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/lib/libmavros_extras.so /home/samantha/catkin_ws_ardupilot/devel/lib/libmavros_extras.so
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/lib/pkgconfig/mavros_extras.pc /home/samantha/catkin_ws_ardupilot/devel/lib/pkgconfig/mavros_extras.pc
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/lib/mavros_extras/servo_state_publisher /home/samantha/catkin_ws_ardupilot/devel/lib/mavros_extras/servo_state_publisher
+/home/samantha/catkin_ws_ardupilot/devel/.private/mavros_extras/lib/mavros_extras/visualization /home/samantha/catkin_ws_ardupilot/devel/lib/mavros_extras/visualization

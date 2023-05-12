@@ -1,0 +1,7 @@
+control_uav
+/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav/cmake.lock /home/samantha/catkin_ws_ardupilot/devel/./cmake.lock
+/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav/share/control_uav/cmake/control_uavConfig-version.cmake /home/samantha/catkin_ws_ardupilot/devel/share/control_uav/cmake/control_uavConfig-version.cmake
+/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav/share/control_uav/cmake/control_uavConfig.cmake /home/samantha/catkin_ws_ardupilot/devel/share/control_uav/cmake/control_uavConfig.cmake
+/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav/lib/pkgconfig/control_uav.pc /home/samantha/catkin_ws_ardupilot/devel/lib/pkgconfig/control_uav.pc
+/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav/lib/control_uav/cmake.lock /home/samantha/catkin_ws_ardupilot/devel/lib/control_uav/cmake.lock
+/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav/lib/control_uav/control_uav.py /home/samantha/catkin_ws_ardupilot/devel/lib/control_uav/control_uav.py

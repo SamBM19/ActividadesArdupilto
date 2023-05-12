@@ -1,0 +1,8 @@
+prefix=/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav
+
+Name: control_uav
+Description: Description of control_uav
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

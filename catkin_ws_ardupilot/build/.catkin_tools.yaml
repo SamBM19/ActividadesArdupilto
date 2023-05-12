@@ -1,0 +1,6 @@
+devel_space: /home/samantha/catkin_ws_ardupilot/devel
+install: false
+install_space: /home/samantha/catkin_ws_ardupilot/install
+profile: default
+source_space: /home/samantha/catkin_ws_ardupilot/src
+workspace: /home/samantha/catkin_ws_ardupilot

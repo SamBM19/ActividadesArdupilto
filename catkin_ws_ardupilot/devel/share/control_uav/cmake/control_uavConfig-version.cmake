@@ -1,0 +1,1 @@
+/home/samantha/catkin_ws_ardupilot/devel/.private/control_uav/share/control_uav/cmake/control_uavConfig-version.cmake
