@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "commanding-port-385801",
+  "private_key_id": "264362dd43f63aed0e10753f0f7140bf809fd48c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsYs2bM9ZUbfgn\nopbh9pCnzB8OC7EQLoOONfYSm6znTEh721DTtUrvzSeHrZNDhLAin6VA3QdAbipv\nExD36ARc3nhJLGzdDYCYGPq56jua7OJ7URkfvfk2gH1sCd2u7Hj7QajjOURPiV9y\nZv9hlOBUnpyIsQC0QqmGNhwktuiF9Num2XvzwrZtqyp2B7OODFHK1RBd/LCaXHE3\neQtW6Y1jiXWxFB87r62xosQN4BFzpzDXV3vigMJjux3MDGmqcMMuyBfkgvSDtg1w\nrYgHK+iawE9JFhPpVD38N20rzsUxCX595sgakS00HAuO59LS2P86D/4lxdXD8Kac\nq5lrOJl1AgMBAAECggEADzkkdhXEUi1p8joZ//dxu9e7UFa4+rhY1siuI+OKh9yF\nNCbggumqJfYkjQdHj3lawpv9kHZUaxyvc6Kn53SeWgMtdSzOqlDEb+oYzi1AuUQ9\nFe3J/bMdnHIJYW6XnJh2cJ3SR8qpXSrA+o3c9KWcj+x331xeNw0CAn+pyZY7f4TE\naMGQ2Vha39UcDn3ssZEkSuSJ0Fkl+ScB3VjbVM4Fvg4j6NFLbKZzi4zVOpLnaMIO\nDmhU3MTbFXHEyBjXb6uZ6IJ8Z2eyGy6a/YwcBveX1/ljGVs/FjyrvBH/4ym4/EC8\n7YW/k8t0fOSS+qtqPyPnw3Cq2xNgzLrbGgjSiziV4QKBgQDgFXhGg7Xv/N4h5qW+\n25ZshFVHfH8Yp/l3YsV9u1TbmDoHuJzd3CeiIpYDBYAPqLCcQ6+EGQiNAri2vchG\nUV/ZMfIT9FhHoLjRXkPn2FEFW6/5oxI5lZZ2Nt1u5KOIzJVxK2/NBP91LRlAXeP0\nPbuzU/K1bXaA/qEzjM1J9BY/JQKBgQDE8FPYfEV49TEYDzILA17VjIcj8KRk3cCu\n7aOfDPUIT539SceYKUjqZ+iluQlr0BLgMfjQezYWF75W9fRcps3rVPQNt/Ea8cae\n/ivlGFXBAb8Nfkc+ph1H/hIBaU/mEoBXRMRLztxk63kUQQhAlC3HEr+yDPvvUSWc\nvAy60UxIEQKBgQDEgg93xwlF6/rgv+OZ+/duMp6WkhbjCGs8xuFp4V4JNPWuz7bA\n2M/o32uuOqSTFtvKLZE9xrY48qoJl2SKRdJIJgSkeyLvrYJmGMR0DL8Ac+dehCL3\nXLcV9Ac7uEWxMbfcBruEj1125JXAXJYLGhgAqx2s/NFvTd0P1+ovcF4SAQKBgQCw\n2zoQwZkKBPcvqgXAyigSEn8SEXswccwly5cSsGokKouw+N7bkMfAacwNd1w0i8lH\nuNi/MMbjlDMEmR/3THzEB6ib4UIOdm1uPsdglzf7efv+vBZy9m55RnsY9WAhNyA2\nPrUhdwWJQ8WaIMSuaeOqUPYBiZN92Ruz41RzOJ4OYQKBgBYo9LpYNC8O9bNUlcTm\nEap7RJQQRvHKnAtZdyJTwN4/l6iDwv8rEc8AIBoD/PB9zZzxSO0fWtl8Y/HREYKA\nL85XqJgzGADtdZKhM/L/9/xhl96+Vs9kt0YpduN+QlZ/cbqr6rmR9CieEoJUY9Mi\nLWypy3c06qEJWBAtyQBac5r5\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechtec@commanding-port-385801.iam.gserviceaccount.com",
+  "client_id": "108987232685916860359",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechtec%40commanding-port-385801.iam.gserviceaccount.com"
+}
